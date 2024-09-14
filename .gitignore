@@ -1,0 +1,24 @@
+# .NET
+*.dll
+*.exe
+*.pdb
+*.dbmdl
+*.bak
+*.log
+
+# User-specific files
+*.user
+*.userossc
+*.suo
+*.ntvs_analysis.dat
+*.idea
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/

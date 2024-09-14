@@ -1,0 +1,6 @@
+{
+  "stepAssemblies": [
+    { "assembly": "PoC.Payments.FunctionalTests" }
+  ],
+  "bindingCulture": { "name": "pt-BR" }
+}

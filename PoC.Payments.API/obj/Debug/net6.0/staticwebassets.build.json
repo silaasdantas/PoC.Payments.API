@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "xWGOIcsQhp9cD2XqNiiJTopMo7E5ugxVCcEKEbQGOiw=",
+  "Source": "PoC.Payments.API",
+  "BasePath": "_content/PoC.Payments.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PoC.Payments.API\\wwwroot",
+      "Source": "PoC.Payments.API",
+      "ContentRoot": "C:\\Users\\silas\\Github\\PoC.Payments.API\\PoC.Payments.API\\wwwroot\\",
+      "BasePath": "_content/PoC.Payments.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\silas\\Github\\PoC.Payments.API\\PoC.Payments.API\\wwwroot\\cancel.html",
+      "SourceId": "PoC.Payments.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\silas\\Github\\PoC.Payments.API\\PoC.Payments.API\\wwwroot\\",
+      "BasePath": "_content/PoC.Payments.API",
+      "RelativePath": "cancel.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cancel.html"
+    },
+    {
+      "Identity": "C:\\Users\\silas\\Github\\PoC.Payments.API\\PoC.Payments.API\\wwwroot\\checkout.html",
+      "SourceId": "PoC.Payments.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\silas\\Github\\PoC.Payments.API\\PoC.Payments.API\\wwwroot\\",
+      "BasePath": "_content/PoC.Payments.API",
+      "RelativePath": "checkout.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\checkout.html"
+    },
+    {
+      "Identity": "C:\\Users\\silas\\Github\\PoC.Payments.API\\PoC.Payments.API\\wwwroot\\success.html",
+      "SourceId": "PoC.Payments.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\silas\\Github\\PoC.Payments.API\\PoC.Payments.API\\wwwroot\\",
+      "BasePath": "_content/PoC.Payments.API",
+      "RelativePath": "success.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\success.html"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\silas\\Github\\PoC.Payments.API\\PoC.Payments.API\\wwwroot\\cancel.html",
+      "PackagePath": "staticwebassets\\cancel.html"
+    },
+    {
+      "Id": "C:\\Users\\silas\\Github\\PoC.Payments.API\\PoC.Payments.API\\wwwroot\\checkout.html",
+      "PackagePath": "staticwebassets\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\silas\\Github\\PoC.Payments.API\\PoC.Payments.API\\wwwroot\\success.html",
+      "PackagePath": "staticwebassets\\success.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PoC.Payments.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PoC.Payments.API.props",
+      "PackagePath": "build\\PoC.Payments.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PoC.Payments.API.props",
+      "PackagePath": "buildMultiTargeting\\PoC.Payments.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PoC.Payments.API.props",
+      "PackagePath": "buildTransitive\\PoC.Payments.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
